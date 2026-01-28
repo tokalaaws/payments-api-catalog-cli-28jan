@@ -5,7 +5,7 @@ projects:
     version: 1.1.0
     apiVersion: v1
     contact:
-      name: 'Andres Morales'
+      name: 'Venkat'
       email: 'andres.email@flexcompany.com'
     tags:
       - logistics
